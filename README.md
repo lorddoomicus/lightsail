@@ -13,7 +13,7 @@ __NOTE:__ As of now, this only supports sendmail. sendmail MUST be installed and
 
 Pointers to the necessary instructions and some notes can be found at this blog post:
 
- http://www.doomd.net/2017/08/an-email-server-in-lightsail-its-harder-than-it-sounds.html
+https://www.doomd.net/an-email-server-in-lightsail-its-harder-than-it-sounds.html
 
 ## License
 
